@@ -1,0 +1,51 @@
+*{
+    text-decoration: none;
+}
+
+.navbar {
+
+    background-color:blue ;
+}
+    
+.navdiv{
+display: flex;
+    justify-content: space-between;
+     
+    align-items: center;
+}
+
+.logo{
+
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+}
+ 
+li{
+
+    list-style: none;
+    display: inline-block;
+    margin-right: 25px; ; 
+}
+
+li a{
+    color:white;
+    font-size: 15px;
+}
+footer{
+
+    background-color: blue;
+    color: white;
+    display: flex;
+    
+   justify-content: space-around;
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+ }
+ 
+ .form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
