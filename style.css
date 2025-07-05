@@ -34,7 +34,7 @@ li a{
 }
 footer{
 
-    background-color: blue;
+background-color: blue;    
     color: white;
     display: flex;
     
@@ -48,4 +48,6 @@ footer{
     display: flex;
     flex-direction: column;
     width: 50%;
-    margin: 0 auto;
+    margin: 0 auto;}
+
+    
